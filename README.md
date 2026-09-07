@@ -1,8 +1,9 @@
-# GitHub Pages Deployment
+# GitHub Pages Deployment - V2
 
 This project demonstrates Continuous Integration and Continuous Deployment using GitHub Actions.
 
 Whenever the `index.html` file is changed and pushed to the `main` branch, GitHub Actions automatically deploys the website to GitHub Pages.
+
 
 ## Technologies
 
